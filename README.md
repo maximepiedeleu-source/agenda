@@ -1,2 +1,2 @@
-# agenda
-Keep calm and track
+# Mon agenda
+Outil de suivi de mes activités
